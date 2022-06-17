@@ -1,8 +1,8 @@
 @font-face {
-    font-family: 'Legothick';
-    src: local('Legothick'),
-        url('Legothick.woff2') format('woff2'),
-        url('Legothick.woff') format('woff');
+    font-family: 'Brick Filled';
+    src: local('Brick Filled Regular'), local('BrickFilled-Regular'),
+        url('BrickFilled-Regular.woff2') format('woff2'),
+        url('BrickFilled-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
